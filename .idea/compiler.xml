@@ -15,7 +15,7 @@
     <bytecodeTargetLevel>
       <module name="api-gateway" target="16" />
       <module name="currency-conversion-service" target="16" />
-      <module name="currency-exchange-service" target="1.8" />
+      <module name="currency-exchange-service" target="19" />
       <module name="naming-server" target="16" />
     </bytecodeTargetLevel>
   </component>
